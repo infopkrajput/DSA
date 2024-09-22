@@ -2,14 +2,21 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "DSA_ea373249"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/PC/OneDrive/PK/Study/DSA/DSA",
-      "program": "c:/Users/PC/OneDrive/PK/Study/DSA/DSA/build/Debug/outDebug",
+      "cwd": "c:/Users/PC/OneDrive/PK/Study/DSA/DSA/45 Day Coding Challenge/DAY8",
+      "program": "c:/Users/PC/OneDrive/PK/Study/DSA/DSA/45 Day Coding Challenge/DAY8/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
