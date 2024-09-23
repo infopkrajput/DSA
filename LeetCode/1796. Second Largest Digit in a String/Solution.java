@@ -1,5 +1,3 @@
-import javax.print.attribute.IntegerSyntax;
-
 public class Solution {
 
     public static int secondHighest(String s) {
