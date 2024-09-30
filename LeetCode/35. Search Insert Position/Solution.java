@@ -8,11 +8,11 @@ class Solution {
         }
         return i;
     }
-    
+
     public static void main(String[] args) {
-        int[] arr = {1,3,5,6};
+        int[] arr = { 1, 3, 5, 6 };
         int target = 5;
-        int x = searchInsert(arr,target);
+        int x = searchInsert(arr, target);
         System.out.println(x);
     }
 }
