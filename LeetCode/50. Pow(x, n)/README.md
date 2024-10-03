@@ -27,5 +27,5 @@ Explanation: 2^(-2) = 1/(2^2) = 1/4 = 0.25
 - `-10^4 <= x^n <= 10^4`
 
 ## Solution
-<a href = "LeetCode/50. Pow(x, n)/Solution.cpp">C++</a>
-<a href = "\Solution.java">JAVA</a>
+<a href = "/Solution.cpp">C++</a>
+<a href = "/Solution.java">JAVA</a>
