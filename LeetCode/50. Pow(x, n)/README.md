@@ -1,25 +1,27 @@
 # 50. Pow(x, n)
 
-### Problem Statement:
+## Problem Statement
+
 Implement `pow(x, n)`, which calculates `x` raised to the power `n` (i.e., `x^n`).
 
-### Example 1:
+### Example 1
 
 Input: x = 2.00000, n = 10  
 Output: 1024.00000
 
-### Example 2:
+### Example 2
 
 Input: x = 2.10000, n = 3  
 Output: 9.26100
 
-### Example 3:
+### Example 3
 
 Input: x = 2.00000, n = -2  
 Output: 0.25000  
 Explanation: 2^(-2) = 1/(2^2) = 1/4 = 0.25
 
-### Constraints:
+### Constraints
+
 - `-100.0 < x < 100.0`
 - `-2^31 <= n <= 2^31 - 1`
 - `n` is an integer
@@ -27,6 +29,7 @@ Explanation: 2^(-2) = 1/(2^2) = 1/4 = 0.25
 - `-10^4 <= x^n <= 10^4`
 
 ## Solution
-<a href = "https://github.com/infopkrajput/DSA/blob/4b057b2254820070415a8ab64abd64850c29eb6e/LeetCode/50.%20Pow(x%2C%20n)/Solution.cpp">C++</a>
 
-<a href = "https://github.com/infopkrajput/DSA/blob/4b057b2254820070415a8ab64abd64850c29eb6e/LeetCode/50.%20Pow(x%2C%20n)/Solution.java">JAVA</a>
+[C++](https://github.com/infopkrajput/DSA/blob/07c94b171d6d859cf633b525046b0f61e63419c1/LeetCode/50.%20Pow(x%2C%20n)/Solution.cpp)
+
+[JAVA](https://github.com/infopkrajput/DSA/blob/07c94b171d6d859cf633b525046b0f61e63419c1/LeetCode/50.%20Pow(x%2C%20n)/Solution.java)
