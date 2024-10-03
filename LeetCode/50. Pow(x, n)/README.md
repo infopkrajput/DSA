@@ -33,3 +33,7 @@ Explanation: 2^(-2) = 1/(2^2) = 1/4 = 0.25
 [C++](https://github.com/infopkrajput/DSA/blob/07c94b171d6d859cf633b525046b0f61e63419c1/LeetCode/50.%20Pow(x%2C%20n)/Solution.cpp)
 
 [JAVA](https://github.com/infopkrajput/DSA/blob/07c94b171d6d859cf633b525046b0f61e63419c1/LeetCode/50.%20Pow(x%2C%20n)/Solution.java)
+
+## My 100 Days Of code Journal
+
+[100 Days Of code Journal](https://splashy-zone-afc.notion.site/100-Days-of-Code-Journal-11349fd54d99805f86defe8d1c3b0f78?pvs=4)
