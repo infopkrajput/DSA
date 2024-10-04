@@ -44,12 +44,12 @@ Since nums1 has no elements, we just set nums1 to nums2.
 - `1 <= m + n <= 200`
 - `-10^9 <= nums1[i], nums2[j] <= 10^9`
 
-[C++]()
+[C++](https://github.com/infopkrajput/DSA/blob/8c5781e069c3281f0defae2965a0da8b9ea5cd80/LeetCode/88.%20Merge%20Sorted%20Array/Solution.cpp)
 
-[JAVA]()
+[JAVA](https://github.com/infopkrajput/DSA/blob/8c5781e069c3281f0defae2965a0da8b9ea5cd80/LeetCode/88.%20Merge%20Sorted%20Array/Solution.java)
 
 ## My 100 Days Of code Journal
 
-[Day9]()
+[Day9](https://splashy-zone-afc.notion.site/Day-9-11349fd54d99816d89c1d1d261cab6cb?pvs=74)
 
 [100 Days Of code Journal](https://splashy-zone-afc.notion.site/100-Days-of-Code-Journal-11349fd54d99805f86defe8d1c3b0f78?pvs=4)
