@@ -40,12 +40,12 @@ Output: [1]
 
 ## Solution
 
-[C++](https://github.com/infopkrajput/DSA/blob/07c94b171d6d859cf633b525046b0f61e63419c1/LeetCode/50.%20Pow(x%2C%20n)/Solution.cpp)
+[C++](https://github.com/infopkrajput/DSA/blob/94385763539db53597910dc84782d032c1ea3edb/LeetCode/75.%20Sort%20Colors/Solution.cpp)
 
-[JAVA](https://github.com/infopkrajput/DSA/blob/07c94b171d6d859cf633b525046b0f61e63419c1/LeetCode/50.%20Pow(x%2C%20n)/Solution.java)
+[JAVA](https://github.com/infopkrajput/DSA/blob/94385763539db53597910dc84782d032c1ea3edb/LeetCode/75.%20Sort%20Colors/Solution.java)
 
 ## My 100 Days Of code Journal
 
-[Day8](https://splashy-zone-afc.notion.site/Day-8-11349fd54d9981de9f20c7b0508bde53?pvs=4)
+[Day10](https://splashy-zone-afc.notion.site/Day-10-11349fd54d998138a1f3d6d1a306e280)
 
 [100 Days Of code Journal](https://splashy-zone-afc.notion.site/100-Days-of-Code-Journal-11349fd54d99805f86defe8d1c3b0f78?pvs=4)
