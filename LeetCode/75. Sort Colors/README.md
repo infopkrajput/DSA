@@ -40,9 +40,9 @@ Output: [1]
 
 ## Solution
 
-[C++](https://github.com/infopkrajput/DSA/blob/94385763539db53597910dc84782d032c1ea3edb/LeetCode/75.%20Sort%20Colors/Solution.cpp)
+[C++](https://github.com/infopkrajput/DSA/blob/c0df035e53253de295ff5c6b3acb183f1e338530/LeetCode/75.%20Sort%20Colors/Solution.cpp)
 
-[JAVA](https://github.com/infopkrajput/DSA/blob/94385763539db53597910dc84782d032c1ea3edb/LeetCode/75.%20Sort%20Colors/Solution.java)
+[JAVA](https://github.com/infopkrajput/DSA/blob/c0df035e53253de295ff5c6b3acb183f1e338530/LeetCode/75.%20Sort%20Colors/Solution.java)
 
 ## My 100 Days Of code Journal
 
