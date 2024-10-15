@@ -13,3 +13,13 @@ Input: s = "abc1111" Output: -1 Explanation: The only digit that appears is 1, w
 ### Constraints:
 - `1 <= s.length <= 500`
 - `s` consists of only lowercase English letters and/or digits (0-9).
+
+[C++]()
+
+[JAVA]()
+
+## My 100 Days Of code Journal
+
+[Day1]()
+
+[100 Days Of code Journal](https://splashy-zone-afc.notion.site/100-Days-of-Code-Journal-11349fd54d99805f86defe8d1c3b0f78?pvs=4)
