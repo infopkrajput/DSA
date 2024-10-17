@@ -9,17 +9,20 @@ You must write an algorithm with `O(log n)` runtime complexity.
 ### Example 1
 
 Input: nums = [1,3,5,6], target = 5
-<p>Output: 2
+
+Output: 2
 
 ### Example 2
 
 Input: nums = [1,3,5,6], target = 2
-<p>Output: 1
+
+Output: 1
 
 ### Example 3
 
 Input: nums = [1,3,5,6], target = 7
-<p>Output: 4
+
+Output: 4
 
 ### Example 4
 
@@ -29,7 +32,8 @@ Output: 0
 ### Example 5
 
 Input: nums = [1], target = 0
-<p>Output: 0
+
+Output: 0
 
 ### Constraints
 
