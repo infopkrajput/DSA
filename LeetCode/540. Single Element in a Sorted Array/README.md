@@ -24,12 +24,12 @@ Output: 10
 - `0 <= nums[i] <= 10^5`
 - Every element in `nums` appears exactly twice, except for one element which appears once.
 
-[C++]()
+[C++](https://github.com/infopkrajput/DSA/blob/main/LeetCode/540.%20Single%20Element%20in%20a%20Sorted%20Array/Solution.cpp)
 
-[JAVA]()
+[JAVA](https://github.com/infopkrajput/DSA/blob/main/LeetCode/540.%20Single%20Element%20in%20a%20Sorted%20Array/Main.java)
 
 ## My 100 Days Of code Journal
 
-[Day#]() 
+[Day16](https://splashy-zone-afc.notion.site/Day-16-12049fd54d9980bda4cbc018fc477a4b?pvs=4)
 
 [100 Days Of code Journal](https://splashy-zone-afc.notion.site/100-Days-of-Code-Journal-11349fd54d99805f86defe8d1c3b0f78?pvs=4)
