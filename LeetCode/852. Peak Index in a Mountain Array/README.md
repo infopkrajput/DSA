@@ -34,12 +34,12 @@ Output: 1
 - `0 <= arr[i] <= 10^6`
 - `arr` is **guaranteed** to be a mountain array.
 
-[C++]()
+[C++](https://github.com/infopkrajput/DSA/blob/main/LeetCode/852.%20Peak%20Index%20in%20a%20Mountain%20Array/Solution.cpp)
 
-[JAVA]()
+[JAVA](https://github.com/infopkrajput/DSA/blob/main/LeetCode/852.%20Peak%20Index%20in%20a%20Mountain%20Array/Main.java)
 
 ## My 100 Days Of code Journal
 
-[Day18](https://splashy-zone-afc.notion.site/Day-18-12049fd54d9980428e8ac90bc170a324?pvs=4) 
+[Day18](https://splashy-zone-afc.notion.site/Day-18-12049fd54d9980428e8ac90bc170a324?pvs=4)
 
 [100 Days Of code Journal](https://splashy-zone-afc.notion.site/100-Days-of-Code-Journal-11349fd54d99805f86defe8d1c3b0f78?pvs=4)
