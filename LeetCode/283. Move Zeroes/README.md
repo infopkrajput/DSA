@@ -25,7 +25,7 @@ Output: [0]
 
 - Could you minimize the total number of operations done?
 
-[C++]()
+[C++](https://github.com/infopkrajput/DSA/blob/main/LeetCode/283.%20Move%20Zeroes/Solution.cpp)
 
 [JAVA]()
 

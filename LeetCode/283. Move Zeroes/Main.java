@@ -21,7 +21,7 @@ class Solution {
     }
 }
 
-public class temp {
+public class Main {
     public static void main(String[] args) {
         int nums[] = { 1, 2, 0, 0, 2, 3 };
         Solution obj = new Solution();
