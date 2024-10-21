@@ -27,7 +27,7 @@ Output: [0]
 
 [C++](https://github.com/infopkrajput/DSA/blob/main/LeetCode/283.%20Move%20Zeroes/Solution.cpp)
 
-[JAVA]()
+[JAVA](https://github.com/infopkrajput/DSA/blob/main/LeetCode/283.%20Move%20Zeroes/Main.java)
 
 ## My 100 Days Of code Journal
 
