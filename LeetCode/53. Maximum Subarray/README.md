@@ -31,9 +31,9 @@ Output: 23
 
 - If you have figured out the `O(n)` solution, try solving the problem using a **divide and conquer** approach, which is more subtle.
 
-[C++]()
+[C++](https://github.com/infopkrajput/DSA/blob/main/LeetCode/53.%20Maximum%20Subarray/Solution.cpp)
 
-[JAVA]()
+[JAVA](https://github.com/infopkrajput/DSA/blob/main/LeetCode/53.%20Maximum%20Subarray/Main.java)
 
 ## My 100 Days Of code Journal
 
