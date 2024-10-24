@@ -36,12 +36,12 @@ Explanation: The following operations are done:
 - `1 <= part.length <= 1000`
 - `s` and `part` consist of lowercase English letters.
 
-[C++]()
+[C++](https://github.com/infopkrajput/DSA/blob/main/LeetCode/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring/Solution.cpp)
 
-[JAVA]()
+[JAVA](https://github.com/infopkrajput/DSA/blob/main/LeetCode/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring/Main.java)
 
 ## My 100 Days Of code Journal
 
-[Day#]() 
+[Day22](https://splashy-zone-afc.notion.site/Day-22-12049fd54d9980399218e3bab0a6de75?pvs=4)
 
 [100 Days Of code Journal](https://splashy-zone-afc.notion.site/100-Days-of-Code-Journal-11349fd54d99805f86defe8d1c3b0f78?pvs=4)
