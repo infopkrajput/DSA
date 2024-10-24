@@ -29,12 +29,12 @@ Explanation: An empty string is considered a valid palindrome.
 - `1 <= s.length <= 2 * 10^5`
 - `s` consists only of printable ASCII characters.
 
-[C++]()
+[C++](https://github.com/infopkrajput/DSA/blob/main/LeetCode/125.%20Valid%20Palindrome/Solution.cpp)
 
-[JAVA]()
+[JAVA](https://github.com/infopkrajput/DSA/blob/main/LeetCode/125.%20Valid%20Palindrome/Main.java)
 
 ## My 100 Days Of code Journal
 
-[Day21]() 
+[Day21](https://splashy-zone-afc.notion.site/Day-21-12049fd54d998075a018fa928fc5b296?pvs=74)
 
 [100 Days Of code Journal](https://splashy-zone-afc.notion.site/100-Days-of-Code-Journal-11349fd54d99805f86defe8d1c3b0f78?pvs=4)
