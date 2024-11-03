@@ -34,12 +34,12 @@ Output: [1,5,1]
 - `1 <= nums.length <= 100`
 - `0 <= nums[i] <= 100`
 
-[C++]()
+[C++](https://github.com/infopkrajput/DSA/blob/main/LeetCode/31.%20Next%20Permutation/Solution.cpp)
 
-[JAVA]()
+[JAVA](https://github.com/infopkrajput/DSA/blob/main/LeetCode/31.%20Next%20Permutation/Main.java)
 
 ## My 100 Days Of code Journal
 
-[Day23](https://splashy-zone-afc.notion.site/Day-23-12049fd54d998060b63ef40bea602679?pvs=4) 
+[Day23](https://splashy-zone-afc.notion.site/Day-23-12049fd54d998060b63ef40bea602679?pvs=4)
 
 [100 Days Of code Journal](https://splashy-zone-afc.notion.site/100-Days-of-Code-Journal-11349fd54d99805f86defe8d1c3b0f78?pvs=4)
