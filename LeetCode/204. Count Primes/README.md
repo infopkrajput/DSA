@@ -24,9 +24,9 @@ Output: 0
 
 - `0 <= n <= 5 * 10^6`
 
-[C++]()
+[C++](https://github.com/infopkrajput/DSA/blob/main/LeetCode/204.%20Count%20Primes/Solution.cpp)
 
-[JAVA]()
+[JAVA](https://github.com/infopkrajput/DSA/blob/main/LeetCode/204.%20Count%20Primes/Main.java)
 
 ## My 100 Days Of code Journal
 
