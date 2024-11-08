@@ -29,9 +29,9 @@ Explanation: The smallest number is 3 and the largest number is 3. The greatest 
 - `2 <= nums.length <= 1000`
 - `1 <= nums[i] <= 1000`
 
-[C++]()
+[C++](https://github.com/infopkrajput/DSA/blob/main/LeetCode/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/Solution.cpp)
 
-[JAVA]()
+[JAVA](https://github.com/infopkrajput/DSA/blob/main/LeetCode/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/main.java)
 
 ## My 100 Days Of code Journal
 
